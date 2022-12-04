@@ -15,6 +15,8 @@ Dataset :
 
 The dataset contains a number of features realated to customers both personal and purchase related for better analysis and clustering.
 
+Shape - (2240 x 29)
+
 
 Languages and libraries:
 
