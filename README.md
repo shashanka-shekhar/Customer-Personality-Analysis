@@ -1,6 +1,6 @@
 # CustomerPersonalityAnalysis
 
-Context
+
 Problem Statement
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
@@ -10,7 +10,6 @@ Customer personality analysis helps a business to modify its product based on it
 Content
 Attributes
 
-People
 
 ID: Customer's unique identifier
 Year_Birth: Customer's birth year
@@ -34,16 +33,22 @@ Promotion
 
 NumDealsPurchases: Number of purchases made with a discount
 AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
+
 AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
+
 AcceptedCmp3: 1 if customer accepted the offer in the 3rd campaign, 0 otherwise
+
 AcceptedCmp4: 1 if customer accepted the offer in the 4th campaign, 0 otherwise
+
 AcceptedCmp5: 1 if customer accepted the offer in the 5th campaign, 0 otherwise
+
 Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
-Place
 
 NumWebPurchases: Number of purchases made through the company’s website
 NumCatalogPurchases: Number of purchases made using a catalogue
 NumStorePurchases: Number of purchases made directly in stores
 NumWebVisitsMonth: Number of visits to company’s website in the last month
+
 Target
+
 Need to perform clustering to summarize customer segments.
