@@ -1,7 +1,7 @@
 # CustomerPersonalityAnalysis
 
 
-Problem Statement
+Problem Statement:
 
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
@@ -13,7 +13,7 @@ Customer personality analysis helps a business to modify its product based on it
 
 
 Content
-Attributes
+Attributes:
 
 
 ID: Customer's unique identifier
@@ -73,6 +73,6 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 
 
-Target
+Target:
 
 Need to perform clustering to summarize customer segments.
