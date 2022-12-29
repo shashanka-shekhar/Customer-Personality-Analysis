@@ -25,4 +25,5 @@ This project uses python3, sklearn, numpy, pandas, seaborn, matplotlib, yellowbr
 Models and techniques used:
  
  1.KMeans clutering to summarize customer segments.
+ 
  2.Silhoutte, Calinski Harabasz elbow curve and score and inertia elbow curve were used to arrive at the best value for cluster number.
